@@ -9,8 +9,8 @@ class Game extends React.Component {
           <Board />
         </div>
         <div className="game-info">
-          <div>Status</div>
-          <ol>Todo</ol>
+          <div></div>
+          <ol></ol>
         </div>
       </div>
     );
